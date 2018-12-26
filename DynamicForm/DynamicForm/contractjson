@@ -1,0 +1,18 @@
+{
+"items": [
+{
+"id": 1,
+"title": "Тест видео",
+"link": "https://www.youtube.com/watch?v=Myp6rSeCMUw",
+"created_at": 1497868174,
+"previewImage": "http://img.youtube.com/vi/Myp6rSeCMUw/mqdefault.jpg"
+},
+{
+"id": 2,
+"title": "Тест видео 2",
+"link": "https://www.youtube.com/watch?v=wsCEuNJmvd8",
+"created_at": 1525952040,
+"previewImage": "http://img.youtube.com/vi/wsCEuNJmvd8/mqdefault.jpg"
+}
+]
+}

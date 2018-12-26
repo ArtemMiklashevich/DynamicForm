@@ -1,0 +1,46 @@
+{
+    "title": "Insurance Contract",
+    "number": 17,
+    "items":
+    {
+        "item":
+        [
+         {
+         "id": 1,
+         "title": "first name",
+         "value": "Ivan",
+         "type": "string",
+         },
+         {
+         "id": 2,
+         "title": "second name",
+         "value": "Sergey",
+         "type": "string",
+         },
+         {
+         "id": 3,
+         "title": "number",
+         "value": "35",
+         "type": "int",
+         },
+         {
+         "id": 4,
+         "title": "insurance",
+         "value": "100500",
+         "type": "double",
+         },
+         {
+         "id": 5,
+         "title": "name",
+         "value": "Fedor",
+         "type": "string",
+         },
+         {
+         "id": 6,
+         "title": "last name",
+         "value": "Orlov",
+         "type": "string",
+         }
+         ]
+    }
+}
